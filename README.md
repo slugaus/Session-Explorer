@@ -3,7 +3,9 @@ A portable lightweight application for analysing session event logs.
 
 # To do
 - ingest windows event log data (4624, 4647/4634, 4625)
-- ingest pcap data 
+- ingest pcap data
+- investigation manager
+  - JSON data stored locally
 - timeplot page for windows eventlogs (x = time, y = user)
   - logon session history per user
   - failed logon attempts per user
